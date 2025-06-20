@@ -1,0 +1,9 @@
+# Ignore Java class files everywhere
+*.class
+
+# (Optional) Common Java ignores:
+*.jar
+*.log
+out/
+.vscode/
+.idea/
