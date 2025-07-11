@@ -7,3 +7,25 @@
 out/
 .vscode/
 .idea/
+
+# === Maven build artifacts ===
+/target/
+
+# === Eclipse-specific files ===
+.settings/
+.project
+.classpath
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+
+# === OS/system junk ===
+.DS_Store
+Thumbs.db
+
+# === Logs or temp files ===
+*.log
+
+# === Other ===
+*.jar
