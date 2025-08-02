@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.office-card {
+  border: 1px solid #ccc;
+  margin: 20px auto;
+  padding: 10px;
+  width: 60%;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.textRed {
+  color: red;
+}
+
+.textGreen {
+  color: green;
+}
